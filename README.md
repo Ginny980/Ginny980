@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 
 ![cats](https://images.pexels.com/photos/45170/kittens-cat-cat-puppy-rush-45170.jpeg?auto=compress&cs=tinysrgb&w=800)
 
+![dogs](dogs.webp)
